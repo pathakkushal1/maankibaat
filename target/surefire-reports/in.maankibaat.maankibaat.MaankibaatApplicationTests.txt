@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: in.maankibaat.maankibaat.MaankibaatApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.712 s <<< FAILURE! - in in.maankibaat.maankibaat.MaankibaatApplicationTests
+contextLoads  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+

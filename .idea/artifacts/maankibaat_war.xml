@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maankibaat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>maankibaat</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="maankibaat-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="maankibaat:war exploded" />
+    </root>
+  </artifact>
+</component>

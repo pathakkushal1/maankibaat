@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: in-maankibaat
+
+server:
+  port: 8090
+
+service:
+  props:
+    db:
+      url: http://localhost:9091/
